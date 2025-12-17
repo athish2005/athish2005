@@ -61,6 +61,7 @@
 
 * MySQL
 * MongoDB
+* PostgreSQL
 
 ### 🧪 Testing
 
@@ -110,7 +111,7 @@
 
 * **Bachelor of Computer Applications (BCA)**
   Bishop Heber College, Tiruchirappalli
-  **Year:** 2025 | **CGPA:** 6.23
+  **Year:** 2025 
 
 ---
 
