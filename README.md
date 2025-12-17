@@ -118,17 +118,10 @@
 
 * **Certified Java Full-Stack Developer** – GIVI HCL
 
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=athish2005&theme=flat&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=athish2005&show_icons=true&theme=default" />
